@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm John Eley</h1>
+<h1 align="center">Hi 👋, I'm John</h1>
 <h3 align="center">Student at QUT, Australia.</h3>
 
 # About Me
