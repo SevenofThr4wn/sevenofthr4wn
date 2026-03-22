@@ -4,7 +4,7 @@
 # About Me
 
 - I like to explore new & existing technologies to expand my knowledge, and use them to any extend in projects.
-- I am starting my studies at QUT(Queensland Univeristy of Technology) in 2026, and completing a Bachelor of Information Techology, majoring in Computer Science.
+- I am studying at QUT(Queensland Univeristy of Technology), completing a Bachelor of Information Techology, majoring in Computer Science.
 - In my free time, i pursue various recreation activities such as travelling the world, playing & modding video games and expanding my knowledge in computer hardware.
 
 # Tech Stack
